@@ -1,2 +1,2 @@
 # SQL
-My journey in polishing SQL skills.
+Polishing SQL skills.

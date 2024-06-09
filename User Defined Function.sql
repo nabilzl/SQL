@@ -54,6 +54,8 @@ DELIMITER ;
 
 SELECT emp_info('Aruna','Journel');
 
+/* Method 2 - using Sub-queries*/
+
 DROP FUNCTION IF EXISTS emp_info2;
 
 DELIMITER $$
